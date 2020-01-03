@@ -4,11 +4,18 @@ public class Zoo {
         elephant.eat();
         elephant.sleep();
         Bird b=new Bird("sparrow", 5,2,"Fe");
-        b.fly();
+        //b.fly();
         b.eat();
         b.sleep();
         Fish f=new Fish("GoldenFish",1,2,"Ma");
         f.swim();
+
+        Chicken chick = new Chicken("A",2,23,"f");
+        //chick.fly();
+        Sparrow sp=new Sparrow("Sparrwo",2,2,"f");
+        sp.fly();
+
+
     }
 }
  
