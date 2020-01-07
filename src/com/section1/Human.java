@@ -1,3 +1,5 @@
+package com.section1;
+
 public class Human {
     String name;
     int age;

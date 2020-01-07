@@ -1,3 +1,5 @@
+package com.section1;
+
 public class Chicken extends Bird {
 
     public Chicken(String name, int age, int weight, String gender) {

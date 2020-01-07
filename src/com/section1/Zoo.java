@@ -1,6 +1,8 @@
+package com.section1;
+
 public class Zoo {
     public static void main(String[] args) {
-//        Animal elephant=new Animal("Elephant", 20, 5000, "Male");
+//        com.section1.Animal elephant=new com.section1.Animal("Elephant", 20, 5000, "Male");
 //        elephant.eat();
 //        elephant.sleep(); //commenting because abstract classes cant be instantiated.
         Bird b=new Bird("sparrow", 5,2,"Fe");

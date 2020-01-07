@@ -1,3 +1,5 @@
+package com.section1;
+
 public class Bird extends Animal {
 
 
@@ -7,7 +9,7 @@ public class Bird extends Animal {
 
     @Override
     public void move() {
-        System.out.println("Bird is flapping wings");
+        System.out.println("com.section1.Bird is flapping wings");
     }
 
 

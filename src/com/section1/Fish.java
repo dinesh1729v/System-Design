@@ -1,3 +1,5 @@
+package com.section1;
+
 public class Fish extends Animal{
 
     public Fish(String name, int age, int weight, String gender) {
@@ -6,7 +8,7 @@ public class Fish extends Animal{
 
     @Override
     public void move() {
-        System.out.println("Fish is swimming");
+        System.out.println("com.section1.Fish is swimming");
     }
 
     public void swim()

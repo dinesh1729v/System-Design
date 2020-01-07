@@ -1,4 +1,4 @@
-import javax.swing.event.HyperlinkEvent;
+package com.section1;
 
 public class Earth {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Earth {
 
         joe.speak();
 
-        //Human dinesh= new Human();
+        //com.section1.Human dinesh= new com.section1.Human();
 
     }
 }
