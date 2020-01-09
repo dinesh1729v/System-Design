@@ -1,9 +1,9 @@
-package com.section1.assignment.clients;
+package com.section2.assignment.clients;
 
-import com.section1.assignment.domain.Employee;
-import com.section1.assignment.domain.dao.EmployeeDAO;
-import com.section1.assignment.reporting.EmployeeReportFormatter;
-import com.section1.assignment.reporting.FormatType;
+import com.section2.assignment.domain.Employee;
+import com.section2.assignment.domain.dao.EmployeeDAO;
+import com.section2.assignment.reporting.EmployeeReportFormatter;
+import com.section2.assignment.reporting.FormatType;
 
 public class ClientModule {
 

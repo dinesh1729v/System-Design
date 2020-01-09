@@ -1,4 +1,4 @@
-package com.section1.assignment.reporting;
+package com.section2.assignment.reporting;
 
 public class ReportFormatter {
     String formattedOutput;

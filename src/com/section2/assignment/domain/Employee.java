@@ -1,4 +1,4 @@
-package com.section1.assignment.domain;
+package com.section2.assignment.domain;
 
 public class Employee {
     private long id;

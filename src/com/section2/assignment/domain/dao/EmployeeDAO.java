@@ -1,6 +1,6 @@
-package com.section1.assignment.domain.dao;
+package com.section2.assignment.domain.dao;
 
-import com.section1.assignment.domain.Employee;
+import com.section2.assignment.domain.Employee;
 
 public class EmployeeDAO {//EmployeeDataAccessObject
     public void saveEmployee(Employee employee)

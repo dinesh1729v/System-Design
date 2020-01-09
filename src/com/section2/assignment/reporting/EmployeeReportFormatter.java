@@ -1,6 +1,6 @@
-package com.section1.assignment.reporting;
+package com.section2.assignment.reporting;
 
-import com.section1.assignment.domain.Employee;
+import com.section2.assignment.domain.Employee;
 
 public class EmployeeReportFormatter extends ReportFormatter{
 

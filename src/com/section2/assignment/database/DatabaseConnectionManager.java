@@ -1,4 +1,4 @@
-package com.section1.assignment.database;
+package com.section2.assignment.database;
 
 public class DatabaseConnectionManager {
 
